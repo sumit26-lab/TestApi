@@ -1,2 +1,3 @@
 # TestApi
- i devloped curd opration api  in node js
+server port 9000
+client posrt3000
